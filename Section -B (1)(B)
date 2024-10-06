@@ -1,2 +1,0 @@
-1. b) PennyLane is a cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations. Qiskit is an open-source framework for quantum computing.  Qiskit requires less theoretical information to be used, while Pennylane demonstrates superior performance in terms of execution time.Although both frameworks exhibit variances, experiments reveal that Qiskit consistently yields superior classification accuracy compared to Pennylane when training classifiers with quantum kernels.
-
