@@ -9,7 +9,7 @@ The bloch sphere for the code given is attached below. This was executed in goog
 
 ### Sample circuit
 
-![Screenshot 2024-10-06 234230](https://github.com/user-attachments/assets/38bc2358-a706-42e5-b920-5f2ed78bfea5)
+![Screenshot 2024-10-07 000650](https://github.com/user-attachments/assets/f5358048-ba3b-47b5-b488-1b334c2e4dff)
 
 ### Grover's algorithm
 
