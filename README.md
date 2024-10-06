@@ -1,4 +1,4 @@
-# Introduciton
+# Introduction
 
 The code and theory explanation for the questions of section-B is given in this repository and the image of the bloch sphere and the sample circuit is also attached in the readme file.
 
