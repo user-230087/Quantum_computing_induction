@@ -11,4 +11,12 @@ The bloch sphere for the code given is attached below. This was executed in goog
 
 ![Screenshot 2024-10-06 234230](https://github.com/user-attachments/assets/38bc2358-a706-42e5-b920-5f2ed78bfea5)
 
+### Grover's algorithm
+
+The diagram for grover's algorithm code implementation
+
+![image](https://github.com/user-attachments/assets/64d95921-cebb-46e8-824a-61ba522de828)
+
+
+
 
