@@ -5,7 +5,7 @@ The code and theory explanation for the questions of section-B is given in this 
 ### Bloch sphere diagram
 
 The bloch sphere for the code given is attached below. This was executed in google colab.
-![Screenshot 2024-10-06 234230](https://github.com/user-attachments/assets/0ed98e5f-eeab-479f-99b4-4fdf513ca1d0)
+![image](https://github.com/user-attachments/assets/da8d5a8f-76c9-4053-947c-7923e56cfe1e)
 
 ### Sample circuit
 
